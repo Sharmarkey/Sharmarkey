@@ -2,11 +2,11 @@
 
 **Healthcare IT · Applied AI · Machine Learning**
 
-Computer science graduate and **IT Workstation Technician at Mayo Clinic**. I build document retrieval tools and chatbot interfaces, and I'm exploring agentic AI and machine learning.
+Computer science graduate and **IT Workstation Technician at Mayo Clinic**. I build data-driven applications and automation tools, and I'm exploring agentic AI and machine learning.
 
 ## 🧠 AI & ML Focus
 
-- **Building:** Python document processing, RAG-style retrieval, and chatbot interfaces.
+- **Building:** Python data processing, RAG-style retrieval, and workflow automation.
 - **Exploring:** Agentic workflows, LLM applications, and machine learning fundamentals.
 - **Applying it to:** Healthcare information access and workflow automation.
 
@@ -40,25 +40,21 @@ Computer science graduate and **IT Workstation Technician at Mayo Clinic**. I bu
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 📄 Healthcare Document Intelligence Tool
 
-Parses healthcare documents and uses RAG-style retrieval to surface relevant information and reduce manual review.
+Parses healthcare documents and uses RAG-style retrieval to surface relevant information.
+
+Combines text parsing, structured JSON data, and file processing to streamline document review.
 
 **Python · JSON · Text Parsing · Document Retrieval**
-
-### 🌎 HalalGo
-
-A chatbot-style web app for finding halal restaurants, nearby mosques, and prayer times using location-based data.
-
-**React · JavaScript · Node.js · REST APIs · Firebase**
 
 ## 🎓 Background
 
 **B.S. Computer Science** · Winona State University · May 2025
 
-At **Mayo Clinic**, I resolve **20–30 ServiceNow incidents weekly** across access, authentication, and clinical workflows. Previously an IT intern at **Locknet Managed IT**.
+At **Mayo Clinic**, I resolve **20–30 ServiceNow incidents weekly** across access, authentication, and clinical workflows.
 
 ## 📫 Connect
 
