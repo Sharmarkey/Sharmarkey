@@ -1,4 +1,4 @@
-# Hi, I'm Sharmarke (Shark) 👋
+# Hi, I'm Sharmarke Nur (Shark) 👋
 
 **Healthcare IT · Applied AI · Machine Learning**
 
