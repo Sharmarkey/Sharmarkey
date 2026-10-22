@@ -1,83 +1,66 @@
-# Hi, I'm Sharmarke Nur — Shark 👋
+# Hi, I'm Sharmarke (Shark) 👋
 
-**Healthcare IT · Full-Stack Development · Applied AI**
+**Healthcare IT · Applied AI · Machine Learning**
 
-I'm a computer science graduate from Winona State University with experience in healthcare IT and full-stack development. At Mayo Clinic, I support clinical applications and endpoint environments. In my projects, I build chatbot interfaces, document processing tools, and backend services with a focus on making information easier to access and reducing repetitive work.
+Computer science graduate and **IT Workstation Technician at Mayo Clinic**. I build document retrieval tools and chatbot interfaces, and I'm exploring agentic AI and machine learning.
 
-My interests connect the systems people rely on every day with practical uses of AI: retrieval, workflow automation, and tools that help people get useful work done.
+## 🧠 AI & ML Focus
 
-## Professional Experience
+- **Building:** Python document processing, RAG-style retrieval, and chatbot interfaces.
+- **Exploring:** Agentic workflows, LLM applications, and machine learning fundamentals.
+- **Applying it to:** Healthcare information access and workflow automation.
 
-### Mayo Clinic · IT Workstation Technician
+## 🛠 Tech Stack
 
-*June 2025–Present · Rochester, Minnesota*
+### AI & Data
 
-- Resolve **20–30 ServiceNow incidents per week** across authentication, access, and clinical workflow issues.
-- Diagnose system and application problems affecting clinical workflows in a high-volume healthcare environment.
-- Collaborate with infrastructure, security, and application teams to support system reliability.
-- Identify recurring issues and improve documentation and knowledge base resources.
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Document_Retrieval-7C3AED?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Exploring-Machine_Learning-FF6F00?style=for-the-badge)
 
-My earlier experience also includes an IT internship at **Locknet Managed IT**.
+### Languages
 
-## Selected Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Healthcare Document Intelligence Tool
+### APIs & Frameworks
 
-**Python · JSON · Text Parsing · RAG-Style Retrieval**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-A document processing tool that parses healthcare documents and uses text processing and retrieval logic to surface relevant information. Designed to make critical information easier to find and reduce manual document review.
+### Cloud & Tools
 
-### HalalGo · Location-Based Discovery & Chatbot Interface
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 📄 Healthcare Document Intelligence Tool
+
+Parses healthcare documents and uses RAG-style retrieval to surface relevant information and reduce manual review.
+
+**Python · JSON · Text Parsing · Document Retrieval**
+
+### 🌎 HalalGo
+
+A chatbot-style web app for finding halal restaurants, nearby mosques, and prayer times using location-based data.
 
 **React · JavaScript · Node.js · REST APIs · Firebase**
 
-A full-stack web application that helps users find halal restaurants, nearby mosques, and prayer times through a chatbot-style interface. Combines location-based data, geospatial search, Firebase services, and dynamic frontend interactions.
+## 🎓 Background
 
-### Task Management System
+**B.S. Computer Science** · Winona State University · May 2025
 
-**Flask · MySQL · JavaScript · CRUD · REST-Style Routing**
+At **Mayo Clinic**, I resolve **20–30 ServiceNow incidents weekly** across access, authentication, and clinical workflows. Previously an IT intern at **Locknet Managed IT**.
 
-A database-driven task tracking application that simulates multi-user workflows. Uses structured backend logic, REST-style routes, and optimized queries to support task management.
+## 📫 Connect
 
-### Radio Astronomy Data Pipeline
-
-**Python · GNU Radio · Data Acquisition · Signal Processing**
-
-A radio astronomy data acquisition and analysis pipeline built around Python and GNU Radio as part of the CHART project.
-
-## Technical Toolkit
-
-| Area | Technologies & experience |
-| --- | --- |
-| Languages & scripting | Python, JavaScript, Java, C++, SQL, Bash |
-| Frontend | React, interactive interfaces |
-| Backend & APIs | Node.js, Flask, FastAPI, Spring Boot, REST APIs |
-| AI & data | RAG-style retrieval, chatbot development, LangChain, data processing, text parsing |
-| Databases & application services | MySQL, MongoDB, Firebase, JSON |
-| IT operations | ServiceNow, clinical application support, endpoint support, workflow troubleshooting, HIPAA environments |
-| Cloud & development tools | AWS, Docker, Git |
-| Scientific computing | Python, GNU Radio |
-
-## What I'm Exploring Next
-
-- **Agentic AI & LLM applications:** Connecting models, tools, and application logic to support useful workflows.
-- **Reliable AI services:** Moving beyond prototypes with maintainable APIs, cloud infrastructure, and better developer tooling.
-- **Machine learning & open source:** Deepening my understanding of models and collaborating on practical software projects.
-
-## Education
-
-**Bachelor of Science in Computer Science** · Winona State University · May 2025
-
-## Community Leadership
-
-**Co-Founder · Future Sheikhs Foundation** · November 2019–Present
-
-Help lead a nonprofit focused on clean water access for underserved communities, with responsibilities spanning fundraising, partnerships, and operations.
-
-## Let's Connect
-
-I'm interested in collaborating on healthcare workflow tools, document intelligence, full-stack applications, and open-source projects.
-
-[GitHub](https://github.com/Sharmarkey) · [LinkedIn](https://www.linkedin.com/in/sharmarken)
-
-> Build useful things and keep learning.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharmarkey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sharmarken)
