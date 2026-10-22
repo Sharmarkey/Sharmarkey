@@ -1,59 +1,83 @@
-# Hi there 👋 I'm Shark
+# Hi, I'm Sharmarke Nur — Shark 👋
 
-### IT Engineer • Open Source Contributor
+**Healthcare IT · Full-Stack Development · Applied AI**
 
-I'm passionate about building AI-powered applications, developer tooling, and scalable cloud-native systems. My interests span Agentic AI, Machine Learning, Open Source, and modern software engineering.
+I'm a computer science graduate from Winona State University with experience in healthcare IT and full-stack development. At Mayo Clinic, I support clinical applications and endpoint environments. In my projects, I build chatbot interfaces, document processing tools, and backend services with a focus on making information easier to access and reducing repetitive work.
 
-Currently focused on creating production-ready AI solutions, contributing to open-source projects, and exploring how large language models can improve developer experiences.
+My interests connect the systems people rely on every day with practical uses of AI: retrieval, workflow automation, and tools that help people get useful work done.
 
----
+## Professional Experience
 
-## 🚀 What I'm Working On
+### Mayo Clinic · IT Workstation Technician
 
+*June 2025–Present · Rochester, Minnesota*
 
+- Resolve **20–30 ServiceNow incidents per week** across authentication, access, and clinical workflow issues.
+- Diagnose system and application problems affecting clinical workflows in a high-volume healthcare environment.
+- Collaborate with infrastructure, security, and application teams to support system reliability.
+- Identify recurring issues and improve documentation and knowledge base resources.
 
----
+My earlier experience also includes an IT internship at **Locknet Managed IT**.
 
-## 🛠 Tech Stack
+## Selected Projects
 
-### Languages
+### Healthcare Document Intelligence Tool
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+**Python · JSON · Text Parsing · RAG-Style Retrieval**
 
-### AI & Data
+A document processing tool that parses healthcare documents and uses text processing and retrieval logic to surface relevant information. Designed to make critical information easier to find and reduce manual document review.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+### HalalGo · Location-Based Discovery & Chatbot Interface
 
-### Cloud & DevOps
+**React · JavaScript · Node.js · REST APIs · Firebase**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+A full-stack web application that helps users find halal restaurants, nearby mosques, and prayer times through a chatbot-style interface. Combines location-based data, geospatial search, Firebase services, and dynamic frontend interactions.
 
-### Frameworks & Databases
+### Task Management System
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+**Flask · MySQL · JavaScript · CRUD · REST-Style Routing**
 
----
+A database-driven task tracking application that simulates multi-user workflows. Uses structured backend logic, REST-style routes, and optimized queries to support task management.
 
-## 🌟 Featured Projects
+### Radio Astronomy Data Pipeline
 
+**Python · GNU Radio · Data Acquisition · Signal Processing**
 
-### 🌎 HalalGo
+A radio astronomy data acquisition and analysis pipeline built around Python and GNU Radio as part of the CHART project.
 
-Location-aware web application helping users discover halal restaurants and nearby mosques through geospatial search and Firebase services.
+## Technical Toolkit
 
+| Area | Technologies & experience |
+| --- | --- |
+| Languages & scripting | Python, JavaScript, Java, C++, SQL, Bash |
+| Frontend | React, interactive interfaces |
+| Backend & APIs | Node.js, Flask, FastAPI, Spring Boot, REST APIs |
+| AI & data | RAG-style retrieval, chatbot development, LangChain, data processing, text parsing |
+| Databases & application services | MySQL, MongoDB, Firebase, JSON |
+| IT operations | ServiceNow, clinical application support, endpoint support, workflow troubleshooting, HIPAA environments |
+| Cloud & development tools | AWS, Docker, Git |
+| Scientific computing | Python, GNU Radio |
 
----
+## What I'm Exploring Next
 
-## 📫 Connect With Me
+- **Agentic AI & LLM applications:** Connecting models, tools, and application logic to support useful workflows.
+- **Reliable AI services:** Moving beyond prototypes with maintainable APIs, cloud infrastructure, and better developer tooling.
+- **Machine learning & open source:** Deepening my understanding of models and collaborating on practical software projects.
 
+## Education
 
-> “Build useful things and keep learning.”
+**Bachelor of Science in Computer Science** · Winona State University · May 2025
+
+## Community Leadership
+
+**Co-Founder · Future Sheikhs Foundation** · November 2019–Present
+
+Help lead a nonprofit focused on clean water access for underserved communities, with responsibilities spanning fundraising, partnerships, and operations.
+
+## Let's Connect
+
+I'm interested in collaborating on healthcare workflow tools, document intelligence, full-stack applications, and open-source projects.
+
+[GitHub](https://github.com/Sharmarkey) · [LinkedIn](https://www.linkedin.com/in/sharmarken)
+
+> Build useful things and keep learning.
